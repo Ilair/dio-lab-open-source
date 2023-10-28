@@ -4,7 +4,8 @@ Iniciei minha jornada como suporte de um sistema de educação em uma empresa de
 Estou na área a mais de 10 anos, desses 8 anos trabalhando específicamente com C#, atualmente trabalho em uma empresa que desenvolve sistemas para a área moveleira.
 
 ## Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/ilair-dos-santos-37146533/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ilair-dos-santos-37146533/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Ilair)
 
 
 ## Aqui estão algumas de minhas habilidades
